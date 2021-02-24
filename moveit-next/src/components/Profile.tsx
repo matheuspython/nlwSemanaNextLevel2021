@@ -6,7 +6,10 @@ export function Profile(){
       <img src="https://github.com/matheuspython.png" alt="imagem do usuario"/>
       <div>
         <strong>Matheus Souza</strong>
-        <p>level 1</p>
+        <p>
+          <img src="icons/level.svg" alt=""/>
+          level 1
+        </p>
       </div>
     </div>
   )
