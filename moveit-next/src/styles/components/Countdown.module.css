@@ -62,6 +62,6 @@
 }
 .countdownButton:disabled{
   background: var(--white);
-  color: (--text);
+  color: var(--title);
   cursor: not-allowed;
 }
