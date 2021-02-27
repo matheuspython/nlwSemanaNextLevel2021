@@ -1,4 +1,5 @@
 .container{
+  
   height: 100vh;
 
   max-width: 992px;
@@ -18,4 +19,13 @@
   gap: 6.25rem;
   align-content: center;
 
+  margin-top: 1.2rem;
+}
+@media screen and (max-width: 760px){
+  .container section{
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
