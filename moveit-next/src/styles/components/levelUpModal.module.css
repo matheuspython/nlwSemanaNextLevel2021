@@ -43,4 +43,6 @@ position: relative;
   top: 0.5rem;
   background: transparent;
   border: 0;
+  cursor: pointer;
+  font-size: 0;
 }
